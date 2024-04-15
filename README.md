@@ -1,2 +1,2 @@
-# ETL_DATABRICKS
- Tempo médio gasto por um usuário nas redes sociais
+# ELT COM DATABRICKS
+ Este é um projeto pessoal desenvolivdo com pyspark com o objetivo de realizar um processo simples de etl.
