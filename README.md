@@ -7,3 +7,6 @@
  Enriquecendo os dados para ser consumíveis por analistas de dados, <br />
  cientistas de dados, analistas de dados e etc. 
  com dados tratados poderão fazer suas respectivas análises com dados confiáveis e tratados. 
+
+# Como usar
+ Você precisa fazer criar sua conta no databricks community, criar um cluster e importar notebook que estarei disponibilizando neste repositório.
