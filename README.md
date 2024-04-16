@@ -20,12 +20,11 @@
 A estrutura de pastas do projeto está organizada da seguinte maneira:
 
 
--   `ETL_GOLD(dados ja prontos)`: notebook com dados ja tratados.
+-   `Gold_ETL(dados ja prontos)`: notebook com dados ja tratados.
 -   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
--   `ETL_RAW`: Lista todas as dependências do projeto para facilitar a instalação.
--   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
--   `WebScrapingG1.py`: Script que contém o código fonte do projeto.
--   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
+-   `Raw_ETL(dados brutos)`: notebook com os dados brutos.
+-   `Silver_ETL(tratamento dos dados)`: notebook com os arquivos e códigos de tratamento de dados (etapa de transformação)
+
  
 
  
