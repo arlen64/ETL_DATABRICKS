@@ -9,4 +9,8 @@
  com dados tratados poderão fazer suas respectivas análises com dados confiáveis e tratados. 
 
 # Como usar
- Você precisa fazer criar sua conta no databricks community, criar um cluster e importar notebook que estarei disponibilizando neste repositório.
+ Você precisa criar sua conta no databricks community, criar um cluster e importar os arquivos que estarei disponibilizando neste repositório. <br />
+ 
+ 
+
+ 
