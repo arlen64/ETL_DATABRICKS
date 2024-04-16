@@ -22,7 +22,7 @@ A estrutura de pastas do projeto está organizada da seguinte maneira:
 
 -   `ETL_GOLD(dados ja prontos)`: notebook com dados ja tratados.
 -   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
--   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
+-   `ETL_RAW`: Lista todas as dependências do projeto para facilitar a instalação.
 -   `README.md`: Documentação explicando o projeto, instruções de uso e informações gerais.
 -   `WebScrapingG1.py`: Script que contém o código fonte do projeto.
 -   `requirements.txt`: Lista todas as dependências do projeto para facilitar a instalação.
